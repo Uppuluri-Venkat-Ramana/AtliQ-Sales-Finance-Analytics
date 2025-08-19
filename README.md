@@ -13,7 +13,7 @@ The goal was to derive actionable insights for **business strategy, sales foreca
 
 ## 📂 Project Reports  
 - 📑 [Customer Performance Report (PDF)](reports/Customer_Performance_Report.pdf)  
-- 📑 [Market vs Target 2021 Report (PDF)](reports/Market_vs_Target_2021.pdf)  
+- 📑 [Market vs Target 2021 Report (PDF)](https://github.com/Uppuluri-Venkat-Ramana/AtliQ-Sales-Finance-Analytics/blob/main/Maket%20vs%20Target%202021.pdf)  
 - 📑 [P&L by Fiscal Years (PDF)](reports/P&L_by_Fiscal_Years.pdf)  
 - 📑 [P&L by Fiscal Months (PDF)](reports/P&L_by_Fiscal_Months.pdf)  
 
