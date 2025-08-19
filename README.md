@@ -12,10 +12,10 @@ The goal was to derive actionable insights for **business strategy, sales foreca
 ---
 
 ## 📂 Project Reports  
-- 📑 [Customer Performance Report (PDF)](reports/Customer_Performance_Report.pdf)  
+- 📑 [Customer Performance Report (PDF)](https://github.com/Uppuluri-Venkat-Ramana/AtliQ-Sales-Finance-Analytics/blob/main/Sales%20Performance%20report.pdf)  
 - 📑 [Market vs Target 2021 Report (PDF)](https://github.com/Uppuluri-Venkat-Ramana/AtliQ-Sales-Finance-Analytics/blob/main/Maket%20vs%20Target%202021.pdf)  
-- 📑 [P&L by Fiscal Years (PDF)](reports/P&L_by_Fiscal_Years.pdf)  
-- 📑 [P&L by Fiscal Months (PDF)](reports/P&L_by_Fiscal_Months.pdf)  
+- 📑 [P&L by Fiscal Years (PDF)](https://github.com/Uppuluri-Venkat-Ramana/AtliQ-Sales-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20years.pdf)  
+- 📑 [P&L by Fiscal Months (PDF)](https://github.com/Uppuluri-Venkat-Ramana/AtliQ-Sales-Finance-Analytics/blob/main/p%20%26l%20report%20for%20fiscal%20monthwise.pdf)  
 
 ---
 
